@@ -3,6 +3,6 @@ name = "o2"
 version = "0.0.0"
 edition = "2021"
 description = "Oxygen: under development"
-license = "Unspecified"
+license = "MIT"
 
 [dependencies]
